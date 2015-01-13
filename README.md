@@ -5,10 +5,12 @@ This library should provide a simple interface for connecting to an access point
 
 ##AT Commands
 
-|AT+RST      | Reset      |
-|AT+CWMODE   | wifi mode  |
-|AT+CWJAP    | join AP    |
-|AT+CIPSTART | open connection |
-|AT+CIPSEND  | send request |
+|Command     | Description |
+|------------|-------------|
+|AT+RST      | Reset       |
+|AT+CWMODE   | wifi mode   |
+|AT+CWJAP    | join AP     |
+|AT+CIPSTART | open connection  |
+|AT+CIPSEND  | send request     |
 |AT+CIPCLOSE | close connection |
 
