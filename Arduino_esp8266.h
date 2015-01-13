@@ -11,7 +11,9 @@
 class Arduino_esp8266 {
 	public:
 		Arduino_esp8266();
-	void reset();
+		void reset();
+		void join(char* ssid, char* key);
+		void connect(char* proto, char* server);
 };
 
 #endif
