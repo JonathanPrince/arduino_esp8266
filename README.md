@@ -3,7 +3,11 @@ Arduino Library for ESP8266
 
 This library should provide a simple interface for connecting to an access point and sending network requests.
 
+#do not use ...yet! in development
+
 ##AT Commands
+
+(provided for reference)
 
 |Command     | Description |
 |------------|-------------|
